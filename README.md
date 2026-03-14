@@ -9,6 +9,3 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=FREDDY-SELVANATHAN&theme=tokyonight&hide_border=false)
 
-## 📈 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FREDDY-SELVANATHAN&layout=compact&theme=tokyonight)
